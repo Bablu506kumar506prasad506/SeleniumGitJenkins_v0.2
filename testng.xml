@@ -7,8 +7,8 @@
 				<methods>
 					<include name="CRe4_970_971_972_973_977" />
 					<include name="CRe4_974" />
-					<exclude name="CRe4_975" />
-					<exclude name="CRe4_976" />
+					<include name="CRe4_975" />
+					<include name="CRe4_976" />
 					<include name="CRe4_978" />
 				</methods>
 			</class>
